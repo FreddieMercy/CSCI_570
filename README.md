@@ -24,15 +24,6 @@ This course is about designing algorithms for computational problems, and how to
 
 ### [Wiki](https://github.com/AaronYang2333/CSCI_570/wiki)
 
-- Q&A
-  * [Chapter 1](http://AaronYang2333.github.io/blog/2021/01/21/AIA-ch1-Q-A/)
-  * [Chapter 2](http://AaronYang2333.github.io/blog/2021/01/24/AIA-ch2-Q-A/)
-  * [Chapter 3](https://aaronyang2333.github.io/blog/2021/02/06/AIA-ch3-Q-A/)
-  * [Chapter 4](https://aaronyang2333.github.io/blog/2021/02/15/AIA-ch4-Q-A/)
-  * [Chapter 5](https://aaronyang2333.github.io/blog/2021/03/03/AIA-ch5-Q-A/)
-  * [Chapter 6](https://aaronyang2333.github.io/blog/2021/03/20/AIA-ch6-Q-A/)
-  * [Chapter 7](https://aaronyang2333.github.io/blog/2021/03/22/AIA-ch7-Q-A/)
-
 - Java
   * [7 Basic Sorting Algorithms in Java (七个基础的排序算法)](https://github.com/AaronYang2333/CSCI_570/wiki/Basic-7-Algorithms-in-Python)
   * [Design Pattern in Java (设计模式Java版)](https://github.com/AaronYang2333/CSCI_570/wiki/Design-Pattern-in-Python)
